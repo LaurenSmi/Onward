@@ -1,0 +1,71 @@
+You wake up from a long rest, your room slowly coming into view. Weird... You can't seem to remember your name. What *is* your name?
+sunlight trickles in through your window. Would you like to go outside?
+It is a sunny day. You notice a watering can. Pick it up?
+YOU GOT A WATERING CAN! I wonder what you will use this for...
+You decide to go back inside to your room.
+Ok, you decide to go back inside to your room.
+Ok, you stay inside your room.
+You find a napsack under your bed and put it on. It feels heavy against your back. You look inside...
+YOU FOUND A SWORD!
+This sword was once your grandfather's from the time before. It has a weight to it that makes it feel otherworldly...
+YOU FOUND A SHIELD!
+This shield was once your grandfather's from the time before. It has a weight to it that makes it feel otherworldly...
+Would you like to practice with it?
+Alright!
+Too bad! An unknown force compels you to practice.
+You walk outside to your backyard. Suddenly, a monster appears! It's a Slime!!!
+Hmm you've never seen this type of Slime before...
+The Slime has stopped charging... FLOWER SLIME has joined your party!
+Would you like to name the Flower Slime?
+
+After your battle, you check inside the napsack to see if it holds any other secrets.
+You find 5 coins! Hmm... Maybe you can use these coins to buy something at the market.
+Would you like to go to the market?
+You head to the market at a quick pace. Today it is bustling with customers.
+Your feet carry you to a small stall covered from the sun.
+Three items are laid out before you:
+Which item do you pick?
+
+You are satisfied with your choice, but you can't find the shopkeeper... Do you steal the item?
+You hurry home without paying. However, when you get back home, you realize you have been robbed! You have 0 coins.
+You place some coins on the counter and leave the market. However, when you check your bag again, you realize that your coins mysteriously doubled. How did that happen?!
+You head back home.
+You decide to rest before wandering around to find monsters.
+All of a sudden, you spot a Slime hiding in the forest!
+As you approach your house, you notice a strange old man wandering about.
+Would you like to approach him?
+You cautiously walk towards him and introduce yourself.
+As you're sneaking away, you accidentally step on a fallen branch. The crack alerts the strange man to your presence.
+"Young traveller, my name is Allistar, and I have a grand favour to ask you."
+"I have heard rumour that you carry the Weapon of Old."
+"I must retrieve my magical crown from the evil King Slime."
+"Do you accept this mission?"
+
+"Take this map and leave at once! The King Slime must be stopped."
+You set out for the long mission ahead, following Allistar's map. However, as night begins to set, you encounter a Walker.
+The Walker has stopped charging... WALKER has joined your party!
+Would you like to name the Walker?
+
+The terrain becomes mountainous as you approach the King Slime's lair.
+Soon you reach a large cavern in the mountainside.
+It's pitch black near the back of the cave. Suddenly you hear something start to move.
+A golden crown catches your eye, and you know that this must be the King Slime.
+Are you ready to begin the battle?
+
+
+The King Slime dropped his crown. You added the GOLDEN CROWN to your inventory.
+You hurry home without trouble and find Allistar waiting for you.
+"Thank you, young traveller!"
+"The King Slime's curse prevented me from retrieving the crown myself."
+"But now, I can rise to my true power. All I need is that crown."
+Do you give Allistar the Golden Crown?
+"Don't be ridiculous. The crown is mine."
+Do you give him the Golden Crown?
+"Stop joking around, JUST GIVE IT TO ME!"
+Last chance... Do you give the crown to him?
+
+"MUHUHAHAHAHA!"
+"YOU *FOOL*! NOW I HAVE THE POWER TO DEFEAT THE KINGDOM!"
+You watch, exhausted, as the sun sets over the hills.
+So far, your grandfather's 
+At this point, there's nothing left to do but continue onward.
